@@ -2,7 +2,7 @@
   "pages": [
     {
       "id": "首页",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "产品中心",
@@ -10,7 +10,7 @@
     },
     {
       "id": "解决方案",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "客户案例",
@@ -36,7 +36,7 @@
   "color": "#FBF4ED",
   "icon": "book",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "TABLET_LARGE"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"
