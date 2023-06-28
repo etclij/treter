@@ -1,0 +1,16 @@
+{
+  "unpublishedCollection": {
+    "name": "randomID",
+    "pageId": "商业看板",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\trandomSalesID: () => {\n    return Math.ceil(Math.random() * (9999 -  + 1)) + 1;\n},\n\trandomCustomerID: () => {\n    return Math.ceil(Math.random() * (99999 -  + 1)) + 1;\n} \n\t}",
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "商业看板_randomID",
+  "deleted": false,
+  "gitSyncId": "649b67da6fbfd93d5cd474d1_649b685b6fbfd93d5cd4753c"
+}

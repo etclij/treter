@@ -1,27 +1,27 @@
 {
   "pages": [
     {
-      "id": "Car servicing2",
+      "id": "汽车服务2",
       "isDefault": false
     },
     {
-      "id": "Car showroom2",
+      "id": "汽车详情",
       "isDefault": false
     },
     {
-      "id": "Business dashboard2",
+      "id": "商业看板",
       "isDefault": false
     },
     {
-      "id": "Car showroom",
+      "id": "汽车详情1",
       "isDefault": false
     },
     {
-      "id": "Car servicing",
+      "id": "汽车服务",
       "isDefault": false
     },
     {
-      "id": "Business dashboard",
+      "id": "商业面板",
       "isDefault": false
     },
     {
@@ -29,7 +29,7 @@
       "isDefault": true
     },
     {
-      "id": "Car showroom Copy",
+      "id": "汽车详情-复制",
       "isDefault": false
     }
   ],
