@@ -1,35 +1,31 @@
 {
   "pages": [
     {
-      "id": "汽车服务2",
-      "isDefault": false
-    },
-    {
-      "id": "汽车详情",
-      "isDefault": false
-    },
-    {
-      "id": "商业看板",
-      "isDefault": false
-    },
-    {
-      "id": "汽车详情1",
-      "isDefault": false
-    },
-    {
-      "id": "汽车服务",
-      "isDefault": false
-    },
-    {
-      "id": "商业面板",
-      "isDefault": false
-    },
-    {
-      "id": "页面1",
+      "id": "首页",
       "isDefault": true
     },
     {
-      "id": "汽车详情-复制",
+      "id": "产品中心",
+      "isDefault": false
+    },
+    {
+      "id": "解决方案",
+      "isDefault": false
+    },
+    {
+      "id": "客户案例",
+      "isDefault": false
+    },
+    {
+      "id": "合作伙伴",
+      "isDefault": false
+    },
+    {
+      "id": "干货分享",
+      "isDefault": false
+    },
+    {
+      "id": "关于我们",
       "isDefault": false
     }
   ],
